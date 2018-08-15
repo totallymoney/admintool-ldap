@@ -1,0 +1,6 @@
+dn: cn=Totally Money,ou=Users,dc=openstack,dc=org
+objectclass: inetOrgPerson
+cn: Totally Money
+sn: Money
+uid: TotallyMoney
+userpassword: intelligent4lerts
